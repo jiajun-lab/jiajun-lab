@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi Strangers 👋
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Spring Boot、Mybatis、MIT 6.005
