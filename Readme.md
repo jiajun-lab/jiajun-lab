@@ -1,10 +1,6 @@
 ### Hi Strangers 👋
 
-- 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning Spring Boot、Mybatis、MIT 6.005
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with BackEnd Development
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Software Development in Nanjing University as a Research Assitant
+- 🌱 I’m currently learning Spring Boot、Mybatis、MIT 6.005、MIT 6.824
 - 📫 How to reach me: masterli522125@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 My blog homepage: https://jiajun-lab.github.io/
