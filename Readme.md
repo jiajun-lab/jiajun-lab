@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiajun-lab&show_icons=true&locale=en&layout=compact" alt="jiajun-lab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiajun-lab&show_icons=true&locale=en" alt="jiajun-lab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiajun-lab&show_icons=true&locale=en&layout=compact" alt="jiajun-lab" /></p>
 
 
 [![Jiajun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajun-lab&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
